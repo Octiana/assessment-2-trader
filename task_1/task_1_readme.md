@@ -43,6 +43,7 @@ So that, if you are not able to get them on your own, you can still go through t
    - ``b0``: being the intercept
    - ``b1``: being the slope
    - ``e``: being the error term
+  
   How are these parameters changing? Are they statistically significant?
 
 ### 3. Visualize data
