@@ -62,7 +62,7 @@ Also feel free to use the software/programing language you like the most to make
    As a reference have a look at the following chart: 
 ![](/task_1/data/dawnusd_spread_plot.png)
 3. At least 2 plots of your choice showing the Statistics you have evaluated (histograms, timeseries, tables, etc.)
-4. A Plot with the timeseries of the of the coefficients ``b0 and b1`` for both the 24h model and the 30-days model.
+4. A Plot with the timeseries of the coefficients ``b0 and b1`` for both the 24h model and the 30-days model.
 
 ### 4. Bonus: Trading Strategy (not mandatory)
 Now that you have dipped into the case let's see if we can profit from it!
