@@ -5,7 +5,7 @@ The goal and steps of this assessment are the following:
 1. [Collect Trading data from multiple sources via API](#1-collect-trading-data-from-multiple-sources-via-api);
 2. [Clean and Manipulate data](#2-clean-and-manipulate-data);
 3. [Visualize Data](#3-visualize-data)
-4. [Bonus: Trading Strategy]
+4. [Bonus: Trading Strategy (not mandatory)](#4-bonus-trading-strategy-not-mandatory)
 
 Imagine your Line Manager ask you for some data due to a Department Request or because She/He has a Trading Idea that wants to test.
 
@@ -27,7 +27,7 @@ You have to download the following Data:
    1. [DAWN-PERP](https://ftx.com/trade/DAWN-PERP) on FTX.
 
 **P.S.** if you are unable to collect the data, in the folder [data](/task_1/data) are the csv file.
-So that, if you are not able to get them on your own, you can still go through the next steps. Nevertheless, use this file as the last chance, and **pay attention to timestamps😉 **
+So that, if you are not able to get them on your own, you can still go through the next steps. Nevertheless, use this file as the last chance (pay attention to timestamps).
 
 ### 2. Clean and Manipulate data:
 1. Evaluate the synthetic ``DAWN/USD`` price in Bittrex;
