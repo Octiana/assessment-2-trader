@@ -43,5 +43,4 @@ assessment-2-trader/
 ## Task 2
 - In the [folder task_2](/task_2) are all the sources needed to solve the task.  
 - In the file [task_2_readme.md](/task_2/task_2_readme.md) is described the task to perform.
-- In the folder [data](/task_2/data) you will find a sample of data in case you are not able to download the data yourself, so that you can proceed.
 
