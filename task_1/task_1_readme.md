@@ -18,12 +18,12 @@ As a reference:
 2. [BITTREX API documentation](https://bittrex.github.io/api/v3)
 
 You have to download the following Data:
-- OHLC and Volumes 15-minutes data from November 1st, 2021 00.00 until February 1st, 2021 00.00 for the following markets:
+- OHLC and Volumes 15-minutes data from December 1st, 2021 00.00 until February 1st, 2022 00.00 for the following markets:
    1. [DAWN/USD](https://ftx.com/trade/DAWN/USD) on FTX.
    2. [DAWN/BTC](https://global.bittrex.com/Market/Index?MarketName=BTC-DAWN) on Bittrex.
    3. [BTC/USD](https://global.bittrex.com/Market/Index?MarketName=USD-BTC) on Bittrex.
 
-- OHLC and Funding Rate at 1h interval from June 1st, 2021 00.00 CET until February 1st, 2021 00.00 CET for the following market:
+- OHLC and Funding Rate at 1h interval from December 1st, 2021 00.00 CET until February 1st, 2022 00.00 CET for the following market:
    1. [DAWN-PERP](https://ftx.com/trade/DAWN-PERP) on FTX.
 
 **P.S.** if you are unable to collect the data, in the folder [data](/task_1/data) are the csv file.
