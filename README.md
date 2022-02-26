@@ -21,10 +21,11 @@ You should be able to solve the assessment on your own, but feel free to reach u
 
 ### Folder structure:
 ~~~~
-assessment2/
+assessment-2-trader/
     task_1/
         task_1_readme.md
         data/
+            ...
     task_2/
         task_2_readme.md
     README.md
