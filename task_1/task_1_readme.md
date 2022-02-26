@@ -59,7 +59,7 @@ Also feel free to use the software/programing language you like the most to make
    - A Horizontal Line with intercept equal to 0;
    - The ``BITTREX:DAWNUSD`` trading volumes
    As a reference have a look at the following chart: 
-![](/task_1/data/DAWNUSD_spread_plot.png)
+![](/task_1/data/dawnusd_spread_plot.png)
 3. At least 2 plots of your choice showing the Statistics you have evaluated (histograms, timeseries, tables, etc.)
 4. A Plot with the timeseries of the of the coefficients ``b0 and b1`` for both the 24h model and the 30-days model.
 
